@@ -1,0 +1,21 @@
+en:
+  current_locale: "English"
+  welcome: "Welcome!"
+  phrases:
+    welcome: "CryptoWallet your Crypto Coins Manager!"
+    menu: "Choose an option below to start:"
+  links: 
+    edit: "Edit"
+    show: "Show"
+    delete: "Delete"
+    sure: "Are you sure?"
+    new_c: "New coin"
+    new_m: "New mining type"
+    back: "Back"
+  editing:
+    coin: "Editing Coin"
+    mining_type: "Editing Mining Type"
+  showing:
+    coin: "Showing Coin"
+    mining_type: "Showing Mining Type"
+    

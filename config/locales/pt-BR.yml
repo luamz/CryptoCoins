@@ -1,0 +1,20 @@
+pt-BR:
+  current_locale: "Português do Brasil"
+  welcome: "Seja Bem-Vindo(a)!"
+  phrases:
+    welcome: "CryptoWallet, o seu gerenciador de Cripto Moedas!"
+    menu: "Para começar, selecione alguma das opções abaixo:"
+  links: 
+    edit: "Editar"
+    show: "Ver"
+    delete: "Deletar"
+    sure: "Você tem certeza?"
+    new_c: "Nova moeda"
+    new_m: "Novo tipo de mineração"
+    back: "Voltar"
+  editing:
+    coin: "Editando Moeda"
+    mining_type: "Editando Tipo de Mineração"
+  showing:
+    coin: "Mostrando Moeda"
+    mining_type: "Mostrando Tipo de Mineração"
